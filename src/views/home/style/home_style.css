@@ -1,0 +1,14 @@
+.home_wrapper {
+  padding: 0;
+  margin: 0;
+}
+
+.post_list_wrapper {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
